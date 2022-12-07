@@ -1,0 +1,22 @@
+
+
+.form-add-category{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 90px 0px;
+
+    input{
+
+        padding: 0px 20px;
+
+        border-radius: 20px;
+
+        outline: none;
+
+        background-color: white ;
+    
+        height: 80px;
+        width: 600px;
+    }
+}

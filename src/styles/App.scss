@@ -1,0 +1,11 @@
+//* GLOBAL
+@use "./global/mixins";
+@use "./global/reset";
+
+//* COMPONENTS
+
+@use "./components/GifExpertApp/GifExpertApp";
+@use "./components/GifExpertApp/GifItem";
+@use "./components/GifExpertApp/GifGrid";
+@use "./components/AddCategory/AddCategory";
+@use "./components/DeleteCategory/DeleteCategory";
